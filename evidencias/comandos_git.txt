@@ -1,0 +1,5 @@
+git clone <url>: Imperativo en el ejercicio 2 para clonar el repositorio
+git add <file> o git add.: Fundamental para añadir archivos al intermedio temporal para preparar datos o archivos
+git commit : Para confirmar y escribir mensajes (O git commit -m "mensaje" para escribir el mensaje y nombre de la confirmación directamente)
+git push: Para empujar la rama actual a su rama de seguimiento
+git merge: Permite fusionar ramas y así juntar los contenidos en un solo espacio
