@@ -1,0 +1,25 @@
+EJ1
+git commit -m "Mi primer commit" Para confirmar la adición del primer archivo java
+
+EJ2
+git commit -m "Añadido archivo Ejercicio2.java"
+
+EJ3
+git commit -m "Añadida variable de significado" Para confirmar la edición hecha en el archivo Ejercicio2.java; donde se añadió una nueva variable
+
+EJ4
+git commit -m "Cálculo de precio con IVA" Para confirmar la adición del archivo Ejercicio4.java
+
+EJ6
+git commit -m "6" Para confirmar la adición del archivo Ejercicio6.java
+
+EJ8
+git commit -m "Borrado Ej1.java" Después de haber creado el archivo para confirmar su eliminación 
+git commit -m "Borrado Ej2.java" Después de haber creado el archivo para confirmar su eliminación
+
+EJ9
+git commit -m "Agregado .gitignore para ignorar archivos compilados y logs"
+
+EJ10
+git commit -am "Cambio erróneo" Para confirmar un cambio
+git commit -am "Vuelvo a modificar" Para revertir el cambio hecho anteriormente
